@@ -1,2 +1,2 @@
 # dio-loops-e-arrays
-Exercícios de estruturas de Repetição e Arrays com Java
+Repositorio para armazenar os exercicios de estruturas de repeticao e arrays com Java.
